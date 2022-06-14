@@ -1,0 +1,49 @@
+Resumo do Treinamento do Treinamento.md
+
+#### **Resumindo as aulas assistidas**.
+
+**Módulo I - Conteúdo de Abertura**
+
+**Git x GitHub:**
+
+*Git* - Sistema de versionamento de código distribuído.
+
+*GitHub* - Repositório online. Plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.
+
+Arquivo **Markdown** - Forma"humanizada" de se escrever arquivo HTML.
+
+**Comandos:**
+
+ls => Listar conteúdos em um diretório
+ls -a => Lista arquivo oculto
+cd => Trocar de um diretório para outro
+cd.. => Voltar um nível ou trocar de um diretório para outro
+Ctrol + L => Limpar tela
+mkdir => Criar repositório
+echo => Exibir mensagem na tela / Criar arquivo
+del => Excluir arquivo
+
+Obs.: Tecla "TAB" - função de autocompletar
+
+**====== Iniciando e criando commit =====**
+
+git init => Inicia o git e possibilitar gerenciar e versionar o código.
+
+git add =>
+Exemplo: git add *****
+
+git commit =>
+Exemplo: git commit  **-m** " " 
+"mensagem para identificar o motivo/significado do commit"
+
+**====== Configuração inicial para acesso ao Git =====**
+
+***Comando para incluir e-mail e apelido no Git:***
+
+git config --global **user**.email "digitar o e-mail"
+git config --global **user**.name "digitar apelido"
+
+***Comando para remover e-mail e apelido no Git:***
+
+git config --global **unset**.email "digitar o e-mail"
+
